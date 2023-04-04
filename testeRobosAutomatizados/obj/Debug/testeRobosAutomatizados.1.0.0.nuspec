@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>testeRobosAutomatizados</id>
+    <version>1.0.0</version>
+    <authors>testeRobosAutomatizados</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Funcoes_Automacoes" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="ClosedXML" version="0.97.0" exclude="Build,Analyzers" />
+        <dependency id="ExcelDataReader" version="3.6.0" exclude="Build,Analyzers" />
+        <dependency id="ExcelDataReader.DataSet" version="3.6.0" exclude="Build,Analyzers" />
+        <dependency id="MSOffice.Object.Library" version="15.0.4420.1018" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Office.Interop.Excel" version="15.0.4795.1001" exclude="Build,Analyzers" />
+        <dependency id="NPOI" version="2.5.6" exclude="Build,Analyzers" />
+        <dependency id="NUnit" version="3.13.3" exclude="Build,Analyzers" />
+        <dependency id="Selenium.Opera.WebDriver" version="2.30.0" exclude="Build,Analyzers" />
+        <dependency id="Selenium.Support" version="4.4.0" exclude="Build,Analyzers" />
+        <dependency id="Selenium.WebDriver" version="4.4.0" exclude="Build,Analyzers" />
+        <dependency id="Selenium.WebDriver.ChromeDriver" version="105.0.5195.5200" exclude="Build,Analyzers" />
+        <dependency id="SeleniumExtras.WaitHelpers" version="1.0.2" exclude="Build,Analyzers" />
+        <dependency id="System.Configuration.ConfigurationManager" version="6.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Alves\Documents\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\testeRobosAutomatizados.runtimeconfig.json" target="lib\net6.0\testeRobosAutomatizados.runtimeconfig.json" />
+    <file src="C:\Users\Alves\Documents\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\testeRobosAutomatizados.dll" target="lib\net6.0\testeRobosAutomatizados.dll" />
+  </files>
+</package>

@@ -1,0 +1,132 @@
+C:\Users\Alves\Documents\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\testeRobosAutomatizados.exe
+C:\Users\Alves\Documents\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\testeRobosAutomatizados.deps.json
+C:\Users\Alves\Documents\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\testeRobosAutomatizados.runtimeconfig.json
+C:\Users\Alves\Documents\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\testeRobosAutomatizados.dll
+C:\Users\Alves\Documents\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\testeRobosAutomatizados.pdb
+C:\Users\Alves\Documents\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Alves\Documents\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Alves\Documents\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\Alves\Documents\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\WebDriver.Support.dll
+C:\Users\Alves\Documents\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\WebDriver.dll
+C:\Users\Alves\Documents\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\SeleniumExtras.WaitHelpers.dll
+C:\Users\Alves\Documents\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Alves\Documents\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Alves\Documents\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alves\Documents\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Alves\Documents\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Alves\Documents\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Alves\Documents\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Alves\Documents\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Alves\Documents\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alves\Documents\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Alves\Documents\testeRobosAutomatizados\testeRobosAutomatizados\obj\Debug\net6.0\testeRobosAutomatizados.csproj.AssemblyReference.cache
+C:\Users\Alves\Documents\testeRobosAutomatizados\testeRobosAutomatizados\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Alves\Documents\testeRobosAutomatizados\testeRobosAutomatizados\obj\Debug\net6.0\testeRobosAutomatizados.csproj.ResolveComReference.cache
+C:\Users\Alves\Documents\testeRobosAutomatizados\testeRobosAutomatizados\obj\Debug\net6.0\testeRobosAutomatizados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alves\Documents\testeRobosAutomatizados\testeRobosAutomatizados\obj\Debug\net6.0\testeRobosAutomatizados.AssemblyInfoInputs.cache
+C:\Users\Alves\Documents\testeRobosAutomatizados\testeRobosAutomatizados\obj\Debug\net6.0\testeRobosAutomatizados.AssemblyInfo.cs
+C:\Users\Alves\Documents\testeRobosAutomatizados\testeRobosAutomatizados\obj\Debug\net6.0\testeRobosAutomatizados.csproj.CoreCompileInputs.cache
+C:\Users\Alves\Documents\testeRobosAutomatizados\testeRobosAutomatizados\obj\Debug\net6.0\testeRobosAutomatizados.csproj.CopyComplete
+C:\Users\Alves\Documents\testeRobosAutomatizados\testeRobosAutomatizados\obj\Debug\net6.0\testeRobosAutomatizados.dll
+C:\Users\Alves\Documents\testeRobosAutomatizados\testeRobosAutomatizados\obj\Debug\net6.0\refint\testeRobosAutomatizados.dll
+C:\Users\Alves\Documents\testeRobosAutomatizados\testeRobosAutomatizados\obj\Debug\net6.0\testeRobosAutomatizados.pdb
+C:\Users\Alves\Documents\testeRobosAutomatizados\testeRobosAutomatizados\obj\Debug\net6.0\testeRobosAutomatizados.genruntimeconfig.cache
+C:\Users\Alves\Documents\testeRobosAutomatizados\testeRobosAutomatizados\obj\Debug\net6.0\ref\testeRobosAutomatizados.dll
+C:\Users\Alves\Documents\Projetos\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\Alves\Documents\Projetos\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\Alves\Documents\Projetos\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\Alves\Documents\Projetos\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\testeRobosAutomatizados.exe
+C:\Users\Alves\Documents\Projetos\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\testeRobosAutomatizados.deps.json
+C:\Users\Alves\Documents\Projetos\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\testeRobosAutomatizados.runtimeconfig.json
+C:\Users\Alves\Documents\Projetos\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\testeRobosAutomatizados.dll
+C:\Users\Alves\Documents\Projetos\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\testeRobosAutomatizados.pdb
+C:\Users\Alves\Documents\Projetos\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Alves\Documents\Projetos\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Alves\Documents\Projetos\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\Alves\Documents\Projetos\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\WebDriver.Support.dll
+C:\Users\Alves\Documents\Projetos\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\WebDriver.dll
+C:\Users\Alves\Documents\Projetos\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\SeleniumExtras.WaitHelpers.dll
+C:\Users\Alves\Documents\Projetos\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Alves\Documents\Projetos\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Alves\Documents\Projetos\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alves\Documents\Projetos\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Alves\Documents\Projetos\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Alves\Documents\Projetos\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Alves\Documents\Projetos\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Alves\Documents\Projetos\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alves\Documents\Projetos\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Alves\Documents\Projetos\testeRobosAutomatizados\testeRobosAutomatizados\obj\Debug\net6.0\testeRobosAutomatizados.csproj.AssemblyReference.cache
+C:\Users\Alves\Documents\Projetos\testeRobosAutomatizados\testeRobosAutomatizados\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Alves\Documents\Projetos\testeRobosAutomatizados\testeRobosAutomatizados\obj\Debug\net6.0\testeRobosAutomatizados.csproj.ResolveComReference.cache
+C:\Users\Alves\Documents\Projetos\testeRobosAutomatizados\testeRobosAutomatizados\obj\Debug\net6.0\testeRobosAutomatizados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alves\Documents\Projetos\testeRobosAutomatizados\testeRobosAutomatizados\obj\Debug\net6.0\testeRobosAutomatizados.AssemblyInfoInputs.cache
+C:\Users\Alves\Documents\Projetos\testeRobosAutomatizados\testeRobosAutomatizados\obj\Debug\net6.0\testeRobosAutomatizados.AssemblyInfo.cs
+C:\Users\Alves\Documents\Projetos\testeRobosAutomatizados\testeRobosAutomatizados\obj\Debug\net6.0\testeRobosAutomatizados.csproj.CoreCompileInputs.cache
+C:\Users\Alves\Documents\Projetos\testeRobosAutomatizados\testeRobosAutomatizados\obj\Debug\net6.0\testeRobosAutomatizados.csproj.CopyComplete
+C:\Users\Alves\Documents\Projetos\testeRobosAutomatizados\testeRobosAutomatizados\obj\Debug\net6.0\testeRobosAutomatizados.dll
+C:\Users\Alves\Documents\Projetos\testeRobosAutomatizados\testeRobosAutomatizados\obj\Debug\net6.0\refint\testeRobosAutomatizados.dll
+C:\Users\Alves\Documents\Projetos\testeRobosAutomatizados\testeRobosAutomatizados\obj\Debug\net6.0\testeRobosAutomatizados.pdb
+C:\Users\Alves\Documents\Projetos\testeRobosAutomatizados\testeRobosAutomatizados\obj\Debug\net6.0\testeRobosAutomatizados.genruntimeconfig.cache
+C:\Users\Alves\Documents\Projetos\testeRobosAutomatizados\testeRobosAutomatizados\obj\Debug\net6.0\ref\testeRobosAutomatizados.dll
+C:\Users\Alves\Documents\Projetos\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Alves\Documents\Projetos\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Alves\Documents\Projetos\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Alves\Documents\Projetos\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Alves\Documents\Projetos\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Alves\Documents\Projetos\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Alves\Documents\Projetos\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Alves\Documents\Projetos\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Alves\Documents\Projetos\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Alves\Documents\Projetos\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\r_cas\OneDrive\Área de Trabalho\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\r_cas\OneDrive\Área de Trabalho\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\r_cas\OneDrive\Área de Trabalho\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\r_cas\OneDrive\Área de Trabalho\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\testeRobosAutomatizados.exe
+C:\Users\r_cas\OneDrive\Área de Trabalho\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\testeRobosAutomatizados.deps.json
+C:\Users\r_cas\OneDrive\Área de Trabalho\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\testeRobosAutomatizados.runtimeconfig.json
+C:\Users\r_cas\OneDrive\Área de Trabalho\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\testeRobosAutomatizados.dll
+C:\Users\r_cas\OneDrive\Área de Trabalho\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\testeRobosAutomatizados.pdb
+C:\Users\r_cas\OneDrive\Área de Trabalho\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\r_cas\OneDrive\Área de Trabalho\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\r_cas\OneDrive\Área de Trabalho\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\r_cas\OneDrive\Área de Trabalho\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\r_cas\OneDrive\Área de Trabalho\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\r_cas\OneDrive\Área de Trabalho\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\r_cas\OneDrive\Área de Trabalho\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\r_cas\OneDrive\Área de Trabalho\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\r_cas\OneDrive\Área de Trabalho\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\r_cas\OneDrive\Área de Trabalho\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\r_cas\OneDrive\Área de Trabalho\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\r_cas\OneDrive\Área de Trabalho\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\r_cas\OneDrive\Área de Trabalho\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\r_cas\OneDrive\Área de Trabalho\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\WebDriver.Support.dll
+C:\Users\r_cas\OneDrive\Área de Trabalho\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\WebDriver.dll
+C:\Users\r_cas\OneDrive\Área de Trabalho\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\SeleniumExtras.WaitHelpers.dll
+C:\Users\r_cas\OneDrive\Área de Trabalho\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\r_cas\OneDrive\Área de Trabalho\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\r_cas\OneDrive\Área de Trabalho\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\r_cas\OneDrive\Área de Trabalho\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\r_cas\OneDrive\Área de Trabalho\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\r_cas\OneDrive\Área de Trabalho\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\r_cas\OneDrive\Área de Trabalho\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\r_cas\OneDrive\Área de Trabalho\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\r_cas\OneDrive\Área de Trabalho\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\r_cas\OneDrive\Área de Trabalho\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\r_cas\OneDrive\Área de Trabalho\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\r_cas\OneDrive\Área de Trabalho\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\r_cas\OneDrive\Área de Trabalho\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\r_cas\OneDrive\Área de Trabalho\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\r_cas\OneDrive\Área de Trabalho\testeRobosAutomatizados\testeRobosAutomatizados\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\r_cas\OneDrive\Área de Trabalho\testeRobosAutomatizados\testeRobosAutomatizados\obj\Debug\net6.0\testeRobosAutomatizados.csproj.AssemblyReference.cache
+C:\Users\r_cas\OneDrive\Área de Trabalho\testeRobosAutomatizados\testeRobosAutomatizados\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\r_cas\OneDrive\Área de Trabalho\testeRobosAutomatizados\testeRobosAutomatizados\obj\Debug\net6.0\testeRobosAutomatizados.csproj.ResolveComReference.cache
+C:\Users\r_cas\OneDrive\Área de Trabalho\testeRobosAutomatizados\testeRobosAutomatizados\obj\Debug\net6.0\testeRobosAutomatizados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r_cas\OneDrive\Área de Trabalho\testeRobosAutomatizados\testeRobosAutomatizados\obj\Debug\net6.0\testeRobosAutomatizados.AssemblyInfoInputs.cache
+C:\Users\r_cas\OneDrive\Área de Trabalho\testeRobosAutomatizados\testeRobosAutomatizados\obj\Debug\net6.0\testeRobosAutomatizados.AssemblyInfo.cs
+C:\Users\r_cas\OneDrive\Área de Trabalho\testeRobosAutomatizados\testeRobosAutomatizados\obj\Debug\net6.0\testeRobosAutomatizados.csproj.CoreCompileInputs.cache
+C:\Users\r_cas\OneDrive\Área de Trabalho\testeRobosAutomatizados\testeRobosAutomatizados\obj\Debug\net6.0\testeRobosAutomatizados.csproj.CopyComplete
+C:\Users\r_cas\OneDrive\Área de Trabalho\testeRobosAutomatizados\testeRobosAutomatizados\obj\Debug\net6.0\testeRobosAutomatizados.dll
+C:\Users\r_cas\OneDrive\Área de Trabalho\testeRobosAutomatizados\testeRobosAutomatizados\obj\Debug\net6.0\refint\testeRobosAutomatizados.dll
+C:\Users\r_cas\OneDrive\Área de Trabalho\testeRobosAutomatizados\testeRobosAutomatizados\obj\Debug\net6.0\testeRobosAutomatizados.pdb
+C:\Users\r_cas\OneDrive\Área de Trabalho\testeRobosAutomatizados\testeRobosAutomatizados\obj\Debug\net6.0\testeRobosAutomatizados.genruntimeconfig.cache
+C:\Users\r_cas\OneDrive\Área de Trabalho\testeRobosAutomatizados\testeRobosAutomatizados\obj\Debug\net6.0\ref\testeRobosAutomatizados.dll

@@ -1,0 +1,5 @@
+C:\Users\Alves\Documents\testeRobosAutomatizados\testeRobosAutomatizados\obj\Debug\netcoreapp2.1\testeRobosAutomatizados.csproj.AssemblyReference.cache
+C:\Users\Alves\Documents\testeRobosAutomatizados\testeRobosAutomatizados\obj\Debug\netcoreapp2.1\testeRobosAutomatizados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alves\Documents\testeRobosAutomatizados\testeRobosAutomatizados\obj\Debug\netcoreapp2.1\testeRobosAutomatizados.AssemblyInfoInputs.cache
+C:\Users\Alves\Documents\testeRobosAutomatizados\testeRobosAutomatizados\obj\Debug\netcoreapp2.1\testeRobosAutomatizados.AssemblyInfo.cs
+C:\Users\Alves\Documents\testeRobosAutomatizados\testeRobosAutomatizados\obj\Debug\netcoreapp2.1\testeRobosAutomatizados.csproj.CoreCompileInputs.cache
